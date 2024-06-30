@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1NYYT0008","2016","42.6539","-77.266","286.5","MIDDLESEX 3.5 S, NY US","","","","","","","","","    863.4"," ,N"
+"US1NYYT0008","2020","42.6539","-77.266","286.5","MIDDLESEX 3.5 S, NY US","       171","N","        75","N","         7","N","  53.3"," ,N,0828, ","    833.9"," ,N"
+"US1NYYT0008","2023","42.6539","-77.266","286.5","MIDDLESEX 3.5 S, NY US","       165","N","        84","N","         4","N","  70.4"," ,N,0613, ","    918.1"," ,N"

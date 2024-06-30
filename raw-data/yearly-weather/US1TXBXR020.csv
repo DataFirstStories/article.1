@@ -1,0 +1,6 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1TXBXR020","2008","29.527036","-98.453004","238.0","ALAMO HEIGHTS 3.2 NNE, TX US","        73","N","        28","N","         4","N","  52.3"," ,N,0819, ","    368.9"," ,N"
+"US1TXBXR020","2009","29.527036","-98.453004","238.0","ALAMO HEIGHTS 3.2 NNE, TX US","        75","N","        50","N","        10","N"," 119.9"," ,N,1004, ","    782.3"," ,N"
+"US1TXBXR020","2010","29.527036","-98.453004","238.0","ALAMO HEIGHTS 3.2 NNE, TX US","        88","N","        47","N","        12","N"," 148.1"," ,N,0908, ","    981.0"," ,N"
+"US1TXBXR020","2012","29.527036","-98.453004","238.0","ALAMO HEIGHTS 3.2 NNE, TX US","        74","N","        41","N","        15","N"," 103.9"," ,N,0125, ","    995.2"," ,N"
+"US1TXBXR020","2013","29.527036","-98.453004","238.0","ALAMO HEIGHTS 3.2 NNE, TX US","        88","N","        43","N","         5","N"," 124.5"," ,N,0525, ","    758.4"," ,N"
