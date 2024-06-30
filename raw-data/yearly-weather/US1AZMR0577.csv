@@ -1,0 +1,4 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1AZMR0577","2021","33.44768","-112.565177","351.4","BUCKEYE 5.4 N, AZ US","        29","N","        14","N","         1","N","  34.0"," ,N,0814, ","    138.7"," ,N"
+"US1AZMR0577","2022","33.44768","-112.565177","351.4","BUCKEYE 5.4 N, AZ US","        35","N","        21","N","         3","N","  41.1"," ,N,1015, ","    261.8"," ,N"
+"US1AZMR0577","2023","33.44768","-112.565177","351.4","BUCKEYE 5.4 N, AZ US","        26","N","        14","N","         0","N","  22.4"," ,N,1222, ","    117.6"," ,N"

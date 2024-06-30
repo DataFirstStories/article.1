@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"US1MIIH0045","2020","42.714802","-84.534909","260.0","LANSING 1.0 ENE, MI US","       143","N","        78","N","         7","N","  58.7"," ,N,0908, ","    943.0"," ,N"
+"US1MIIH0045","2021","42.714802","-84.534909","260.0","LANSING 1.0 ENE, MI US","       165","N","        76","N","         6","N"," 115.6"," ,N,0812, ","    947.7"," ,N"
+"US1MIIH0045","2022","42.714802","-84.534909","260.0","LANSING 1.0 ENE, MI US","","","","","","","","","    760.0"," ,N"
+"US1MIIH0045","2023","42.714802","-84.534909","260.0","LANSING 1.0 ENE, MI US","       158","N","        75","N","         6","N","  60.2"," ,N,0713, ","    908.4"," ,N"
