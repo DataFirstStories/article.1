@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="KotlinNotebookOptionsProvider">
+    <option name="heapMaxLimitInMib" value="15000" />
+  </component>
+  <component name="KotlinNotebookPlotExportOptionsProvider">
+    <option name="fileName" value="maximum_temps_no_last2.png" />
+    <option name="format" value="PNG" />
+  </component>
+</project>
